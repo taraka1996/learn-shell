@@ -1,3 +1,3 @@
 # learn-shell
 
-shell-scripting topics
+shell-scripting topic
