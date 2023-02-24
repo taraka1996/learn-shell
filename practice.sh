@@ -1,2 +1,3 @@
 echo " a comment will follow"
-echo " a comment will follow"#cat
+echo " a comment will follow"
+echo The # here begins a comment.
