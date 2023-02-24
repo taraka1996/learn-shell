@@ -6,3 +6,5 @@ if [ -x "$filename" ]; then
 else
   echo "File $filename not found."; touch $filename
 fi; echo "File test complete."
+#!/usr/bin/bash
+echo "Baeldung is Awesome!"
